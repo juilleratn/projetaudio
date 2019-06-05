@@ -1,0 +1,211 @@
+body {
+	
+	background-image: url(challenge/images/background.jpg);
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: contain;
+	background-position: center;
+	
+	
+	
+
+
+	
+}
+
+.bg {
+	background-color: rgba(0,0,0,0.7);
+}
+
+h3 {
+	font-family: "Open Sans";
+	font-style: "Bold" ;
+	color: white;
+	font-size: 30px;
+
+}
+
+p {
+	font-family: "Open Sans";
+	color: white;
+}
+
+.auteur {
+	font-size: 12px;
+}
+
+.NEWS {
+	margin-left: 130px;
+	margin-right: 700px;
+}
+
+#bloc2 {
+
+	margin-top: 90px;
+}
+
+ #bloc6 img 
+{ 
+	
+	
+}
+
+
+.Latest input {
+	background-color: transparent;
+	border-width: 0.1px;
+	height: 39px;
+	width: 340px;
+	color: grey;
+
+
+}
+
+.Latest{
+	margin-left: 1412px;
+	margin-top: -2100px;
+
+}
+
+.Latest h5 {
+	font-family: "Open Sans";
+	color: white;
+	font-size: 20px;
+}
+
+.Latest h4 {
+	font-family: "Open Sans";
+	color: white;
+}
+
+.Time {
+	font-size: 15px;
+	color: rgb(195,195,195);
+	color: grey;
+}
+
+#prefooter {
+	margin-top: 80px;
+	margin-left: 129px;
+}
+
+#prefooter  p {
+	font-family: "Open Sans"
+	color : white;
+
+}
+
+#prefooter h4 {
+	font-family: "Open Sans"
+	color : white;
+
+}
+
+#prefooter  h5 {
+	font-family: "Open Sans"
+	color : white;
+
+}
+
+#hrbouton {
+	margin-top: 1500px;
+	width: 85%;
+	margin-left: 129px;
+}
+
+#hrbouton input{
+background-color: grey;
+
+}
+
+#prefooter{
+
+    display: flex;
+    height: 513px;
+    margin-top: -20px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    width: 100%;
+    text-align: left;
+ }
+.pr1{
+    width: 375px;
+    height :400px;
+    margin-left: 10px;
+    font-family: Open Sans;
+    color: white;
+}
+.pr2{
+    width: 375px;
+    height :400px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: Open Sans;
+    color: white;
+}
+.pr3{
+    width: 375px;
+    height : 400px;
+    text-align: left;
+    font-style: bold;
+    color: white;
+    font-family: Open Sans;
+    color: white;
+
+}
+.pr3 nav{
+    font-size: 12px;
+    
+}
+.pr3 nav ul {
+    list-style-type: none;
+    padding-left: 0px;
+    font-size: 9px;
+    color: rgb(195,195,195);
+
+}
+    
+/*footer*/
+hr{
+    margin-top: -5px;
+    width: 85%;
+}
+footer{
+/*  background-image: url(challenge/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    max-width: 2000px;
+    width: 100%;
+    height: 189px;
+    margin-top: -1px;
+    border-color: rgb(195,195,195);
+    margin-top: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.reseaux{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1100px;
+    width: 100%;*/
+    height: 80px;
+    background-size: 100%;
+    text-align: center;
+    word-spacing: 10px;
+    margin-top: 36px;
+
+}
+.reseaux ul li{
+    list-style-type: none;
+    display: inline-block;
+    color: #7a7a7a;
+    width: 30px;
+
+}
+a {
+    color: rgb(195,195,195);
+© 2019 GitHub, Inc.
