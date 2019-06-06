@@ -102,6 +102,10 @@ h3{
 	font-size: 25px;
 	height: 180px;
 }
+a:hover{
+	text-decoration: none;
+	color: white;
+}
 
 
 #prefooter{
@@ -190,7 +194,9 @@ footer{
 }
 a {
 	color: rgb(195,195,195);
+	
 }
+
 .bg{
 	background-color: rgba(0,0,0,0.7);
 }
