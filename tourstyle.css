@@ -1,13 +1,11 @@
-.bg{
-	background-color: rgba(0,0,0,0.7);
-}
+
 body{
-	color: rgba(255, 255, 255, 0.7)!important;
 	background-image: url(challenge/images/background.jpg);
 	background-attachment: fixed;
 	background-size: cover;
-	background-color: rgba( 0, 0, 0, 0.7);
+	color: rgba(255, 255, 255, 0.7);
 	font-family: 'Open Sans', sans-serif;
+	 
 }
 header{
 	height: 390px;
@@ -17,7 +15,7 @@ header{
 	margin-left: -10px;
 	margin-right: -10px;
 	color: white;
-	
+	height: 350px;
 }	
  header nav ul{
  	text-align: center;
@@ -38,6 +36,7 @@ header{
  	color: white;
  	font-weight: 700;
  }
+
 h1{
 	margin-top: 60px;
 	text-align: center;
@@ -52,65 +51,38 @@ h2{
 	letter-spacing: 2px;
 	font-size: 30px;
 }
+/* fin header   */
+.UPCOMING{
+	font-size: 18px;
+	height: 
+	
 
+}
+.UPCOMING nav{
+	
+}
+.UPCOMING nav ul {
+	display: flex;
+	list-style-type: none;
+	justify-content: center;
+	
 
-#container{	
-	height: 800px;
-    width: 1500px;
-	margin-left: 10%;
 }
-.videos{
-	display: flex; 
+.UPCOMING nav ul li{
+	margin-left: 35px;
+ 
 }
-.videos a:hover{
-	text-decoration: none;
+.UPCOMING nav ul li a:hover{
 	color: white;
+	text-decoration: none;
 }
-.youtube {
-	display: inline-flex;
-	text-align: center;
-    color: white;
-}
-.v1{
-	
-	background-size: 191px;
-	width: 500px;
-	height: 273px;
-	border-top: solid 1px;
-	border-bottom: solid 1px;
-	padding-top: 25px;
-	border-color: rgb(195,195,195);
-	
-}
-.v2{
-	
-	width: 500px;
-	height: 273px;
-	background-size: cover;
-	border: solid 1px;
-	border-color: rgb(195,195,195);
-	padding-top: 25px;
-}
-.v3{
-	width: 500px;
-	height: 273px;
-	background-size: cover;
-	border-top: solid 1px;
-	border-bottom: solid 1px;
-	border-color: rgb(195,195,195);
-	padding-top: 25px;
-	
-}	
-#up {
-	display: flex;	
-	height: 305px;
-	border-color: rgb(195,195,195, 0.7);
-	font-size: 12px;	
-}
+.dates{
+	width: 85%;
+	margin-left: 8%;
 
+}
 .table{
 	font-size: 15px;
-	
 	
 }
 .table td {
@@ -125,41 +97,13 @@ h2{
 	padding-right: 0px;
 	color: rgba(255, 255, 255, 0.7);
 }
-.gigs{
-	width: auto;
-	height: 150px;
-	padding-top: 20px;
-	border-top:solid 0.5px;
-	font-size: 15px;
-
-}
 h3{
-	font-size: 15px;
-	width: 85%;
-	color: white;
-	height: 25px;
-	margin-top: 25px;
-}
-h4{
-	font-size: 15px;
-	font-style :  bold;
-	color: white;
-}
-p{
-
-	text-align: left;
-}
-h5{
-	text-align: left;
-	font-size: 15px;
-	margin-left: 15px;
-}
-h6{
-	font-size: 9px;
-	text-align: center;	
+	margin-top: 40px;
+	font-size: 25px;
+	height: 180px;
 }
 
-/*prefooter*/
+
 #prefooter{
 	display: flex;
     width: 100%;
@@ -195,8 +139,6 @@ h6{
 }
 .pr3 nav{
 	font-size: 12px;
-
-	
 }
 .pr3 nav ul {
 	list-style-type: none;
@@ -209,9 +151,10 @@ h6{
 hr{
 	margin-top: 20px;
 	margin-bottom: 30px ;
-	width: 1500px !important;
+	width: 86% !important;
 	border-top :solid 0.5px !important;
  	border-color: rgba(255, 255, 255, 0.7) !important;
+
 }
 footer{
     max-width: 2000px;
@@ -247,4 +190,7 @@ footer{
 }
 a {
 	color: rgb(195,195,195);
+}
+.bg{
+	background-color: rgba(0,0,0,0.7);
 }
