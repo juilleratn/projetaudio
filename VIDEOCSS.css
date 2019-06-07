@@ -1,0 +1,43 @@
+
+body{
+	background-image: url(challenge/images/background.jpg);
+	background-size: 50%;
+	background-repeat: repeat-x;
+	background-color: black;
+	height: 2000px;
+	font-family: 'Open Sans', sans-serif;
+}
+#videos{
+	height: 620px;
+	margin-top: 20px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+#ligne4,#ligne2{
+	margin-left: -120px;
+	text-align: left;
+}
+#ligne1 li{
+	display: inline-block;
+
+}
+#ligne2 h4{
+	display: inline-block;
+	margin-left: 310px;
+}
+#ligne3 li{
+	display: inline-block;
+	margin-top: 25px;
+}
+#ligne4 h4{
+	display: inline-block;
+	margin-left: 295px;
+	padding-top: 25px;
+	margin-top: -25px;
+}
+
+#ligne1,#ligne3{
+	text-align: center;
+}
