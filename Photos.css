@@ -1,132 +1,38 @@
-body {
-	
+body{
 	background-image: url(challenge/images/background.jpg);
 	background-repeat: repeat;
 	background-attachment: fixed;
 	background-size: contain;
 	background-position: center;
 	height: 2500px;
-	
-	
-	
-
-
-	
 }
+
 
 .bg {
 	background-color: rgba(0,0,0,0.7);
-	height: 3500px;
+	height: 2500px;
 }
 
-h3 {
-	font-family: "Open Sans";
-	font-style: "Bold" ;
-	color: white;
-	font-size: 30px;
-
+#bigphoto {
+	margin-left: 400px;
+	width: 1650px;
+	height: 1515px;
+    float: center;
 }
 
-p {
-	font-family: "Open Sans";
-	color: white;
-}
-
-.auteur {
-	font-size: 12px;
-}
-
-.NEWS {
-	margin-left: 130px;
-	margin-right: 700px;
-}
-
-#bloc2 {
-
-	margin-top: 90px;
-}
-
- #bloc6 img 
-{ 
-	
-	
-}
-
-
-.Latest input {
-	background-color: transparent;
-	border-width: 0.1px;
-	height: 39px;
-	width: 340px;
-	color: grey;
-
-
-}
-
-.Latest{
-	margin-left: 1412px;
-	margin-top: -2100px;
-
-}
-
-.Latest h5 {
-	font-family: "Open Sans";
-	color: white;
-	font-size: 20px;
-}
-
-.Latest h4 {
-	font-family: "Open Sans";
-	color: white;
-}
-
-.Time {
-	font-size: 15px;
-	color: rgb(195,195,195);
-	color: grey;
-}
-
-#prefooter {
-	margin-top: 80px;
-	margin-left: 129px;
-}
-
-#prefooter  p {
-	font-family: "Open Sans"
-	color : white;
-
-}
-
-#prefooter h4 {
-	font-family: "Open Sans"
-	color : white;
-
-}
-
-#prefooter  h5 {
-	font-family: "Open Sans"
-	color : white;
-
-}
-
-#hrbouton {
-	margin-top: 1500px;
+#hr {
 	width: 85%;
-	margin-left: 129px;
+	margin-top: -470px;
+	margin-left: 120px;
 }
 
-#hrbouton input{
-background-color: grey;
-
-}
-
-#prefooter{
+.prefooter{
 
     display: flex;
     height: 513px;
-    margin-top: -20px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-top: 10px;
+    margin-left: 390px;
+    
 
     width: 100%;
     text-align: left;
@@ -173,7 +79,20 @@ hr{
     margin-top: -5px;
     width: 85%;
 }
-footer{
+
+#hr2  {
+	margin-top: 600px;
+
+
+
+}
+
+footer {
+	margin-top: -180px;
+	margin-left: -890px;
+}
+
+#footer{
 /*  background-image: url(challenge/images/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;*/
@@ -182,11 +101,11 @@ footer{
     height: 189px;
     margin-top: -1px;
     border-color: rgb(195,195,195);
-    margin-top: -20px;
     margin-left: -10px;
     margin-right: -10px;
     margin-left: auto;
     margin-right: auto;
+    
 
 }
 .reseaux{
@@ -204,10 +123,15 @@ footer{
 .reseaux ul li{
     list-style-type: none;
     display: inline-block;
-    color: #7a7a7a;
+    color: white;
     width: 30px;
+    margin-top: 20px;
 
 }
+
+.reseaux h6 {
+	color: white;
+	font-family: Open Sans;
+}
 a {
-    color: rgb(195,195,195);
-© 2019 GitHub, Inc.
+    color: rgb(195,195,195);}
