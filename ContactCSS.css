@@ -1,0 +1,98 @@
+body{
+	background-image: url(challenge/images/background.jpg);
+	background-repeat: repeat;
+	background-size: 90%;
+	height: 2000px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#search{
+	width: 400px;
+	float: right;
+	margin-top: -650px;
+	margin-right: 110px;
+}
+#search input{
+	background-color: rgba(0,0,0,0.5);
+	border-width:0.1px;
+	height: 40px;
+	width: 340px;
+	margin-bottom: 60px;
+	color: white;
+}
+#search p{
+	font-size: 16px;
+	color: rgb(210 210 210);
+}
+#search h3{
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+}
+#search h5{
+	color: rgb(210 210 210);
+}
+
+#Fond{
+	background-color: rgba(0,0,0,0.5);
+	height: 2000px;
+}
+
+.url{
+	width: 400px;
+}
+
+#formcomment{
+	width: 800px;
+}
+form{
+	width: 300px;
+	color: white;
+}
+form input{
+	width: 400px;
+	height: 40px;
+	background-color: rgba(0,0,0,0.5);
+	border-width: 0.1px;
+	color: white;
+}
+form div{
+	margin-top: 11px;
+}
+form textarea{
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+#Contenu{
+	width: 400px;
+	font-size: 18px;
+	margin-left: 170px;
+	margin-top: -5px;
+	word-spacing: 5px;
+}
+#Contenu button{
+	border:none;
+	padding:6px 0 6px 0;
+	border-radius: 0px;
+	box-shadow:1px 1px 3px #aaa;
+	background-color: rgb(12 12 12);
+	font-weight: bold;
+	color:white;
+	width: 115px;
+	height: 40px;
+}
+#Contenu div label{
+	font-size: 20px;
+	font-weight: bold;
+	color: white
+}
+#Contenu div label span{
+	font-weight: normal;
+	font-size: 16px;
+	color: grey;
+}
+h4{
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
